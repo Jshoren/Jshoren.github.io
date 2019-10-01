@@ -16,10 +16,7 @@ function check(){
 		correct++;
 	}
 	
-	var pictures = ["img/win.gif", "img/meh.jpeg", "img/lose.gif"];
-	var messages = ["Great job!", "That's just okay", "You really need to do better"];
-	var score;
-
+	
 	if (correct == 0) {
 		score = 2;
 	}
