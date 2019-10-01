@@ -9,15 +9,15 @@ function check(){
 	if (question1 == "Brown") {
 		correct++;
 }
-	if (question2 == "Oval") {
+	if (question2 == "Rectangle") {
 		correct++;
 }	
-	if (question3 == "Albany") {
+	if (question3 == "JS") {
 		correct++;
 	}
 	
-
-	var messages = ["Great job!", "That's just okay", "You really need to do better"];
+	
+	
 	
 
 	
