@@ -16,7 +16,7 @@ function check(){
 		correct++;
 	}
 	
-	
+	var messages = ["Great job!", "That's just okay", "You really need to do better"];
 	if (correct == 0) {
 		score = 2;
 	}
